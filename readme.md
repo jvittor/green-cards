@@ -8,7 +8,7 @@ basically it works by generating random dates within a set time interval and use
 Note: Despite being compatible with Windows systems, performance drops significantly when used on that system.
 
 # How to use
-you must fork the repository and clone from your profile, after that just run ```python app.py``` or or ```python appBETA.py``` to use the optimized version of the code.
+you must fork the repository and clone from your profile, after that just run ```python app.py``` or or ```python appOptimized.py``` to use the optimized version of the code.
 
 # Results
 <img src="https://i.imgur.com/JuONa2m.png">
