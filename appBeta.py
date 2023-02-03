@@ -7,7 +7,7 @@ counter = 0
 max_commits = 10000
 
 def gen_date():
-    year = random.randint(1500, 1500)
+    year = random.randint(2022, 2023)
     month = random.randint(1, 12)
     day = random.randint(1, 31)
     date = f"{year}-{month}-{day}"
